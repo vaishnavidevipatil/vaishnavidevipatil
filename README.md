@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Full Stack Developer](https://github.com/vaishnavidevipatil/aws_project)
 
-- 🌱 I’m currently learning **FASTAPI, ETL AND DevOps**
+- 🌱 I’m currently learning **FASTAPI, Python Computer vision AI/ML AND DevOps**
 
 - 👯 I’m looking to collaborate on [sql_python_project](https://github.com/vaishnavidevipatil/mysql_project)
 
