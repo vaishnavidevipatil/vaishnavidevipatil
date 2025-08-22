@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavidevipatil" alt="vaishnavidevipatil" /></a> </p>
 
-- 🔭 I’m currently working on [Full Stack Developer](https://github.com/vaishnavidevipatil/aws_project)
+- 🔭 I’m currently working on [DevOps](https://github.com/vaishnavidevipatil/aws_project)
 
 - 🌱 I’m currently learning **FASTAPI, Python Computer vision AI/ML AND DevOps**
 
